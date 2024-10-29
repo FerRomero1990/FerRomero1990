@@ -1,0 +1,18 @@
+{
+  "name": "ferromero1990",
+  "version": "1.0.0",
+  "description": "<!--\r **FerRomero1990/FerRomero1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ferromero1990"
+  },
+  "author": "Fernanda Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
